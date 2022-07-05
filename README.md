@@ -11,7 +11,7 @@ Link Dataset: https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-p
 
 Problem: regression 
 
-Final Model: Linear Regression 
+Final Model: Multivariate Linear Regression 
 
 Link Repositori: https://github.com/yusufkamal-ok/final-project-kelompok-02-Diajeng-Ciptaning-Ayu
 
