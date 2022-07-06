@@ -15,4 +15,4 @@ Final Model: Multivariate Linear Regression
 
 Link Repositori: https://github.com/yusufkamal-ok/final-project-kelompok-02-Diajeng-Ciptaning-Ayu
 
-Link PPT: https://docs.google.com/presentation/d/10QPj0DK8AeFJYFlU6qfAmhUmnoxsgdYI/edit#slide=id.g13b727112fb_0_24
+Link PPT: https://docs.google.com/presentation/d/10QPj0DK8AeFJYFlU6qfAmhUmnoxsgdYI
