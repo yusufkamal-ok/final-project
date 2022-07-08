@@ -13,6 +13,6 @@ Problem: regression
 
 Final Model: Multivariate Linear Regression 
 
-Link Repositori: https://github.com/yusufkamal-ok/final-project-kelompok-02-Diajeng-Ciptaning-Ayu
+Link Repositori: https://github.com/yusufkamal-ok/final-project-kelompok-02-Dica
 
 Link PPT: https://docs.google.com/presentation/d/10QPj0DK8AeFJYFlU6qfAmhUmnoxsgdYI
