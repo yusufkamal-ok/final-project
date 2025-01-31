@@ -23,7 +23,8 @@
 - Multivariate Regression : 96,3%
 - Ridge Regression : 96,4%
   
-**Final Model**: Multivariate Linear Regression 
+**Final Model**: Multivariate Linear Regression
+
 **Conclusion** : The most influential factor
  - floor_area_sqm
  - flat_model
